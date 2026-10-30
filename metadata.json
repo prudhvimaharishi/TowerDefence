@@ -1,0 +1,6 @@
+{
+  "name": "Crown & Cinder: 1v1 Tower Defense",
+  "description": "Tactical 1v1 isometric tower defense and siege game with QR code local multiplayer, gold economy, distinctive factions, and touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

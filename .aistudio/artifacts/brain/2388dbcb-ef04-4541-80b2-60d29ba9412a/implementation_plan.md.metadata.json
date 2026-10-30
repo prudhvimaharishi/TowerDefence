@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for expanding Crown & Cinder into a large 32x20 3D RTS battlefield with multi-waypoint winding and branching paths, radial circular unit deployment zones around the Capital Citadel and forward towers, and full 360-degree camera orbit rotation, pitch tilt, zoom, and an interactive HUD compass gizmo.",
+  "updatedAt":  "2026-10-26T05:40:53.332449409Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
